@@ -2,9 +2,18 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
-## Development server
+# Requirements
+You need node.js with npm on your machine.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Installation
+This app will install all required dependencies automatically. Just start the commands below in the root folder where you stored the package.
+
+$ npm install
+
+# Run Application and start development Server
+To run this app in your browser just start everything whit the comment below in the applications root folder. It will update everything an start a simple web server on `http://localhost:4200/`
+
+$ npm start
 
 ## Code scaffolding
 
